@@ -1,12 +1,11 @@
 ---
-title: Mi segunda publicación en el blog
-author: Alumno de Astro
-description: "Después de aprender un poco de Astro, ¡no podía parar!"
+layout: ../../layouts/MarkdownPostLayout.astro
+title: "Bug en la app"
+pubDate: 2022-07-01
+description: "Existe un bug en la aplicacion nativa cuando se hace click en el boton enviar."
+author: "Carla Rodriguez"
 image:
-    url: "https://docs.astro.build/assets/arc.webp"
-    alt: "Miniatura de los arcos de Astro."
-pubDate: 2022-07-08
-tags: ["astro", "bloguear", "aprender en público", "éxitos"]
+    url: "https://docs.astro.build/assets/full-logo-dark.png"
+    alt: "El logotipo completo de Astro."
+tags: ["astro", "bloguear", "bugs"]
 ---
-
-Después de una exitosa primera semana aprendiendo Astro, decidí probar un poco más. Escribí e importé un pequeño componente de memoria.
